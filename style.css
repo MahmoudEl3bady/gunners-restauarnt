@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --primary-color: #383848;
+  --secondary-color: #e4b95b;
+  --third-color: #9a9a9a;
+  --forth-color: #e2dadd;
+}
+.navbar-brand {
+  font-family: "Helvetica", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 4px;
+}
+.home {
+  background: linear-gradient(rgba(15, 23, 43, 0.9), rgba(15, 23, 43, 0.9)),
+    url(./images/bg-hero.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sec-span {
+  color: #fea116 !important;
+  font-family: "Pacifico", cursive;
+  font-weight: 400 !important;
+}
+
+.item-name-price {
+width: 60%;
+}
