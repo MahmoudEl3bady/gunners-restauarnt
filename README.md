@@ -1,8 +1,9 @@
-
 # Gunners Restaurant Website Project
 
 Welcome to the Gunners Restaurant Website project! This web application is designed to showcase the offerings and atmosphere of Gunners Restaurant, providing users with information about the restaurant, its menu, and the ability to make reservations. The project aims to create an engaging online presence for the restaurant and enhance the overall customer experience.
-Live demo : https://mahmoudel3bady.github.io/gunners-restauarnt/
+
+<a href="https://mahmoudel3bady.github.io/gunners-restauarnt/">Live Demo</a> 
+
 ## Technologies Used
 
 - HTML5
@@ -10,7 +11,7 @@ Live demo : https://mahmoudel3bady.github.io/gunners-restauarnt/
 - Bootstrap
 - Font Awesome
 - Google Fonts
-  
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -22,7 +23,6 @@ To run this project locally, follow these steps:
 
 - The website is designed to be responsive, ensuring a seamless experience across various devices.
 - Online reservation functionality and other dynamic features can be added in future updates.
-
 
 ![Screenshot from 2024-01-12 07-53-31](https://github.com/MahmoudEl3bady/gunners-restauarnt/assets/113212468/4f96b6cf-65d9-46c3-9ea2-df6c397851d1)
 ![Screenshot from 2024-01-12 07-53-47](https://github.com/MahmoudEl3bady/gunners-restauarnt/assets/113212468/96eb7be2-8c86-473d-9055-7257d2d221f5)
